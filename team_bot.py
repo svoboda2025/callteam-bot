@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ⬇️ Вставь сюда токен от BotFather
-TOKEN = '8172053890:AAHQOzGj82DzrW1ELbK8CuBNFm9PvM3Tx_s'  # ⬅️
+TOKEN = '8172053890:AAEQ1Di9cQcCxHYhAkeLwK6ezfy-iLQOqZs'  # ⬅️
 
 # ⬇️ Сюда впиши юзернеймы людей, которых нужно тегать
 TEAM = [
